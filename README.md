@@ -30,12 +30,12 @@ The Trip Management Application successfully demonstrates how fundamental C prog
 
 | Task                               | Details                                                                        | Status  |
 | ---------------------------------- | ------------------------------------------------------------------------------ | ------- |
-| Learn C basics                     | Variables, data types, control flow, functions                                 | Pending |
-| Practice structs and arrays        | Define User and Trip structs, experiment with arrays                           | Pending |
-| Learn file I/O in C                | Read/write files using `fopen`, `fgets`, `fprintf`                             | Pending |
-| Set up project structure           | Create folders: `/src`, `/data`, add `.gitignore`, `README.md`, and `Makefile` | Pending |
-| Initialize Git repo                | `git init`, create `.gitignore`, make initial commit, push to GitHub           | Pending |
-| Write README with project overview | Include project goals, basic usage, and folder structure                       | Pending |
+| Learn C basics                     | Variables, data types, control flow, functions                                 |  Done   |
+| Practice structs and arrays        | Define User and Trip structs, experiment with arrays                           |  Done   |
+| Learn file I/O in C                | Read/write files using `fopen`, `fgets`, `fprintf`                             |  Done   |
+| Set up project structure           | Create folders: `/src`, `/data`, add `.gitignore`, `README.md`, and `Makefile` |  Done   |
+| Initialize Git repo                | `git init`, create `.gitignore`, make initial commit, push to GitHub           |  Done   |
+| Write README with project overview | Include project goals, basic usage, and folder structure                       |  Done   |
 
 ---
 
