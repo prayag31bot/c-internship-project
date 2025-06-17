@@ -45,7 +45,7 @@ The Trip Management Application successfully demonstrates how fundamental C prog
 
 | Task                                | Details                                                         | Status  |
 | ----------------------------------- | --------------------------------------------------------------- | ------- |
-| Design User file format             | CSV with fields: id,name,email,phone,isActive                   | Pending |
+| Design User file format             | CSV with fields: id,name,email,phone,isActive                   |  Done   |
 | Implement auto-increment ID system  | Maintain last user ID in a counter file                         | Pending |
 | Create User                         | Add new user, check for duplicate emails, assign unique ID      | Pending |
 | Read User                           | Retrieve user by ID, name (partial/exact), or email             | Pending |
