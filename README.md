@@ -46,13 +46,13 @@ The Trip Management Application successfully demonstrates how fundamental C prog
 | Task                                | Details                                                         | Status  |
 | ----------------------------------- | --------------------------------------------------------------- | ------- |
 | Design User file format             | CSV with fields: id,name,email,phone,isActive                   |  Done   |
-| Implement auto-increment ID system  | Maintain last user ID in a counter file                         | Pending |
-| Create User                         | Add new user, check for duplicate emails, assign unique ID      | Pending |
-| Read User                           | Retrieve user by ID, name (partial/exact), or email             | Pending |
-| Update User                         | Modify all fields except ID, validate email uniqueness          | Pending |
-| Delete User                         | Remove user by ID or email                                      | Pending |
-| Create CLI commands for User module | Add command-line parsing and execute appropriate user functions | Pending |
-| Test User CRUD thoroughly           | Verify all operations and file integrity                        | Pending |
+| Implement auto-increment ID system  | Maintain last user ID in a counter file                         |  Done   |
+| Create User                         | Add new user, check for duplicate emails, assign unique ID      |  Done   |
+| Read User                           | Retrieve user by ID, name (partial/exact), or email             |  Done   |
+| Update User                         | Modify all fields except ID, validate email uniqueness          |  Done   |
+| Delete User                         | Remove user by ID or email                                      |  Done   |
+| Create CLI commands for User module | Add command-line parsing and execute appropriate user functions |  Done   |
+| Test User CRUD thoroughly           | Verify all operations and file integrity                        |  Done   |
 
 ---
 
@@ -62,14 +62,14 @@ The Trip Management Application successfully demonstrates how fundamental C prog
 
 | Task                             | Details                                                         | Status  |
 | -------------------------------- | --------------------------------------------------------------- | ------- |
-| Design Trip file format          | CSV with fields: id,userId,destination,startDate,endDate,cost   | Pending |
-| Implement auto-increment trip ID | Similar to user ID counter file                                 | Pending |
-| Create Trip                      | Validate userId exists, add trip details                        | Pending |
-| Read Trip                        | Retrieve by trip ID or list all trips for a user                | Pending |
-| Update Trip                      | Update any trip field except trip ID, validate user ID and data | Pending |
-| Delete Trip                      | Remove trip by trip ID                                          | Pending |
-| Add CLI commands for Trip module | Command-line parsing and trip functions                         | Pending |
-| Test Trip CRUD thoroughly        | Verify correctness and file consistency                         | Pending |
+| Design Trip file format          | CSV with fields: id,userId,destination,startDate,endDate,cost   |  Done   |
+| Implement auto-increment trip ID | Similar to user ID counter file                                 |  Done   |
+| Create Trip                      | Validate userId exists, add trip details                        |  Done   | 
+| Read Trip                        | Retrieve by trip ID or list all trips for a user                |  Done   | 
+| Update Trip                      | Update any trip field except trip ID, validate user ID and data |  Done   |
+| Delete Trip                      | Remove trip by trip ID                                          |  Done   |
+| Add CLI commands for Trip module | Command-line parsing and trip functions                         |  Done   |
+| Test Trip CRUD thoroughly        | Verify correctness and file consistency                         |  Done   |
 
 ---
 
@@ -79,7 +79,7 @@ The Trip Management Application successfully demonstrates how fundamental C prog
 
 | Task                                    | Details                                                                               | Status  |
 | --------------------------------------- | ------------------------------------------------------------------------------------- | ------- |
-| Comprehensive testing                   | Test all User & Trip operations including edge cases and invalid input                | Pending |
+| Comprehensive testing                   | Test all User & Trip operations including edge cases and invalid input                |  Done   |
 | Improve error handling                  | User-friendly messages and input validations (email format, phone, dates, cost, etc.) | Pending |
 | Refactor code                           | Modularize, remove duplication, add comments                                          | Pending |
 | Enhance CLI usability                   | Add `--help` command, usage examples, maybe interactive menu                          | Pending |
