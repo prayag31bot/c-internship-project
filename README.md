@@ -87,6 +87,3 @@ The Trip Management Application successfully demonstrates how fundamental C prog
 | Prepare sample data files               | Provide example `users.txt` and `trips.txt`                                           | Pending |
 | Final review and submission preparation | Check all files, push final commit                                                    | Pending |
 
----
-
-If you want, I can also generate **starter code snippets** or **shell scripts** to automate some tests. Just ask!
