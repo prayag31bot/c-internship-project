@@ -80,10 +80,10 @@ The Trip Management Application successfully demonstrates how fundamental C prog
 | Task                                    | Details                                                                               | Status  |
 | --------------------------------------- | ------------------------------------------------------------------------------------- | ------- |
 | Comprehensive testing                   | Test all User & Trip operations including edge cases and invalid input                |  Done   |
-| Improve error handling                  | User-friendly messages and input validations (email format, phone, dates, cost, etc.) | Pending |
-| Refactor code                           | Modularize, remove duplication, add comments                                          | Pending |
-| Enhance CLI usability                   | Add `--help` command, usage examples, maybe interactive menu                          | Pending |
-| Write detailed README                   | Include compilation instructions, CLI usage examples, file format description         | Pending |
-| Prepare sample data files               | Provide example `users.txt` and `trips.txt`                                           | Pending |
+| Improve error handling                  | User-friendly messages and input validations (email format, phone, dates, cost, etc.) |  Done   |
+| Refactor code                           | Modularize, remove duplication, add comments                                          |  Done   |
+| Enhance CLI usability                   | Add `--help` command, usage examples, maybe interactive menu                          |  Done   |
+| Write detailed README                   | Include compilation instructions, CLI usage examples, file format description         |  Done   |
+| Prepare sample data files               | Provide example `users.txt` and `trips.txt`                                           |  Done   |
 | Final review and submission preparation | Check all files, push final commit                                                    | Pending |
 
